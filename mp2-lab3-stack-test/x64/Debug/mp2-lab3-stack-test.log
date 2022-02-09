@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  test_tcalc.cpp
+C:\prog\mp2-lab3-stack\mp2-lab3-stack\TCalc.h(104,22): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\prog\mp2-lab3-stack\mp2-lab3-stack\TCalc.h(139,22): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\prog\mp2-lab3-stack\mp2-lab3-stack\TCalc.h(201,22): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  test_tstack.cpp
+  Создание кода...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6006: "link.exe" завершилась с кодом 1104.
+LINK : fatal error LNK1104: не удается открыть файл "C:\prog\mp2-lab3-stack\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.5\build\native\..\..\lib\native\v140\windesktop\msvcstl\static\rt-dyn\x64\Debug\gtest_maind.lib"
