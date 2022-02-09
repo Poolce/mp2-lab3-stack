@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\prog\mp2-lab3-stack\stack-with-list\TLCalc.h(104,22): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\prog\mp2-lab3-stack\stack-with-list\TLCalc.h(139,22): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\prog\mp2-lab3-stack\stack-with-list\TLCalc.h(201,22): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  stack-with-list.vcxproj -> C:\prog\mp2-lab3-stack\x64\Debug\stack-with-list.exe
